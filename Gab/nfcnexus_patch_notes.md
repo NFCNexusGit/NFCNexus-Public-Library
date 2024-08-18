@@ -1,3 +1,3 @@
 # NFCNexus Patch Notes
 
-<span style="font-weight: bold; color: rgb(255, 255, 255); background-color: rgb(37, 37, 37); display: inline !important;">Version 1.3 Build 34:&nbsp;</span>Updated the "Upload and Share" button.<div><ul><li>Users will now be able to share their notes in a public library</li><li>Additional bug fixes are on the way</li><li>Fixed rouge message&nbsp;</li></ul><div><br></div></div>
+<span style="font-weight: bold; color: rgb(255, 255, 255); background-color: rgb(37, 37, 37); display: inline !important;">Version 1.3 Build 34:&nbsp;</span>Updated the "Upload and Share" button.<div><ul><li>Users will now be able to share their notes in a public library</li><li>Additional bug fixes are on the way</li><li>Fixed error rouge message&nbsp;</li></ul><div><br></div></div>
