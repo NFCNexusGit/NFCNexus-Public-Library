@@ -1,3 +1,3 @@
 # Hamborjer
 
-ITS A ME, MARIO
+Maintaining this public library is a chore
