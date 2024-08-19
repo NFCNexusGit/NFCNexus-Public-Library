@@ -1,3 +1,0 @@
-# Hep
-
-Hooray!
