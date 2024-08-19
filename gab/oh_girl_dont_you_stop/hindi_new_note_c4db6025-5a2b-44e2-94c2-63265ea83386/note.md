@@ -1,2 +1,0 @@
-# Hindi new note
-
