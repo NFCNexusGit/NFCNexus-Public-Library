@@ -1,3 +1,3 @@
 # New Note
 
-asfasfd<div><br></div><div><div style="position: relative; display: inline-block;"><img src="BESMONTE_ECARD.png" data-filename="BESMONTE_ECARD.png" style="max-width: 100%; height: 491px; width: 907px;" data-width="1484" data-height="817"><div class="resize-handle" style="position: absolute; right: 0px; bottom: 0px; width: 10px; height: 10px; cursor: se-resize; background: rgba(0, 0, 0, 0.5);"></div></div><br></div>
+asfasfd<div><br></div><div><div style="position: relative; display: inline-block;"><img src="BESMONTE_ECARD.png" data-filename="BESMONTE_ECARD.png" style="max-width: 100%; height: 140px; width: 924px;" data-width="1484" data-height="817"><div class="resize-handle" style="position: absolute; right: 0px; bottom: 0px; width: 10px; height: 10px; cursor: se-resize; background: rgba(0, 0, 0, 0.5);"></div></div><br></div>
