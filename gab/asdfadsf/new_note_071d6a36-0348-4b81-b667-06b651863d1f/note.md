@@ -1,3 +1,0 @@
-# New Note
-
-asdfasfasfafasdf<div><br></div><div><img src="https://raw.githubusercontent.com/NFCNexusGit/NFCNexus-Public-Library/main/gab/asdfadsf/new_note_071d6a36-0348-4b81-b667-06b651863d1f/viber_image_2024-07-03_09-42-15-407.jpg" data-filename="viber_image_2024-07-03_09-42-15-407.jpg" style="max-width: 100%; height: auto; cursor: se-resize;" data-original-width="0" data-original-height="0"><br></div>
