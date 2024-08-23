@@ -1,3 +1,0 @@
-# New Note
-
-asdf&nbsp;<div><br></div><div><img src="https://raw.githubusercontent.com/NFCNexusGit/NFCNexus-Public-Library/main/gab/sdaf/new_note_9936f0af-b30e-4f59-a05e-d55684ff9e2f/453899953_1211090326902166_8106498273870731994_n.jpg" data-filename="453899953_1211090326902166_8106498273870731994_n.jpg" style="max-width: 100%; height: 276px; cursor: se-resize; width: 1023px;" data-original-width="1032" data-original-height="1376"><br></div>
